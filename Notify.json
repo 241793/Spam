@@ -3,7 +3,8 @@
   "v":1.0,
   "close":{
   "close":true,
-  "text":"有缘再见"
+  "text":"测试关闭",
+	  "title":"有缘再见"
   },
 "Spam通知":[
 		{
